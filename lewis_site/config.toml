@@ -1,0 +1,4 @@
+baseURL = "https://Lewis727.github.io/"
+languageCode = 'en-us'
+title = "Lewis Tian's Personal Website"
+theme = "anatole"

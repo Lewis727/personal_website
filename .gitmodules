@@ -1,0 +1,7 @@
+[submodule "lewis_site/public_folder"]
+	path = lewis_site/public_folder
+	url = https://github.com/Lewis727/Lewis727.github.io.git
+	branch = main
+[submodule "lewis_site/public"]
+	path = lewis_site/public
+	url = https://github.com/Lewis727/Lewis727.github.io.git
