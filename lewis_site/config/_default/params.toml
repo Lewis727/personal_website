@@ -7,6 +7,9 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
+
+hidesidebar = true
+# disableThemeSwitcher = true
 mainSections = ["post"]
 images = ["images/site-feature-image.jpg"]
 doNotLoadAnimations = false

@@ -16,6 +16,7 @@ pygmentsCodefencesGuessSyntax = true
 # Localized dates requires Hugo version 0.87.0
 localizedDates = false
 
+
 [markup]
     [markup.goldmark]
         [markup.goldmark.renderer]

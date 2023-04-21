@@ -5,10 +5,10 @@
   url = "/"
 
   [[main]]
-  name = "Projects"
+  name = "Portfolio"
   weight = 300
-  identifier = "projects"
-  url = "/projects/"
+  identifier = "portfolio"
+  url = "/portfolio/"
 
   [[main]]
   name = "About Me"
