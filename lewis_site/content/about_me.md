@@ -1,25 +1,20 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+title = "About Lewis Tian"
+description = "Lewis Tian About Me"
+date = "2023-04-21"
+aliases = ["about-us"]
+author = "Lewis Tian"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## Bio
+Lewis (Ziliang) Tian is a highly motivated learner with a passion for data science and finance. He holds a Bachelor of Science in Data Science from Duke University and is currently pursuing a Master of Engineering in Financial Engineering at Cornell University. Lewis has completed coursework in Statistics for Financial Engineering, Machine Learning, Optimization for Finance, among other topics. He is skilled in several programming languages, including Python, R, SQL, Java, C++.
 
-Hugo makes use of a variety of open source projects including:
+Lewis has gained valuable experience through internships with MSCI Inc. and Deloitte Consulting, where he conducted ESG factor analysis, helped with digital transformations and applied his data science skills to solve real-world problems. He has also worked on a variety of projects, both academic and applied, including using deep reinforcement learning methods for cryptocurrency portfolio management, applying machine learning and statistical analysis to find the relationship between ESG and corporate financial performance. Lewis has also served as Director of Sustainability and Social Impact for SciEcon CIC, a non-profit organization fostering interdisciplinary talent. He is starting as a Global Quantitative Analytics Intern at Bank of America June 2023.
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+## Academic and Career Interest
+Coming from a data science background, I am interested in financial data science, specifically predictive modeling and analytics in finance. In terms of career, I am interested in quantitative strategies and research.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## Outside of working and studying...
+You can always catch me in the gym, playing soccer, watching a movie, or listening to jazz.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
