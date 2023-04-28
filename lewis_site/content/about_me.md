@@ -15,6 +15,5 @@ Lewis has gained valuable experience through internships with MSCI Inc. and Delo
 Coming from a data science background, I am interested in financial data science, specifically predictive modeling and analytics in finance. In terms of career, I am interested in quantitative strategies and research.
 
 ## Outside of working and studying...
-You can always catch me in the gym, playing soccer, watching a movie, or listening to jazz.
-
+You can always catch me in the gym, playing soccer, watching a movie, or listening to jazz. I also love cinematography and color grading. As a passion project, I enjoy filming everything I find beautiful.
 
