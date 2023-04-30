@@ -15,9 +15,3 @@
   weight = 400
   identifier = "about_me"
   url = "/about_me/"
-
-  [[main]]
-  name = "Misc"
-  weight = 500
-  identifier = "misc"
-  url = "/misc/"

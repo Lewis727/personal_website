@@ -8,6 +8,8 @@ customCss = []
 # example ["js/custom.js"]
 customJs = [] 
 
+contentratio = 0.7
+disableThemeSwitcher = false
 hidesidebar = true
 mainSections = ["post"]
 images = ["images/site-feature-image.jpg"]
